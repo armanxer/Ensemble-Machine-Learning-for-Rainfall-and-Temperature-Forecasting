@@ -1,4 +1,4 @@
-# Weather Forecasting with Ensemble Machine Learning | Rainfall & Temperature Prediction
+# Ensemble Machine Learning for Rainfall and Temperature Forecasting
 
 ## Project Overview
 
